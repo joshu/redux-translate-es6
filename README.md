@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/33413880/react-redux-and-multilingual-internationalization-apps-architecture
